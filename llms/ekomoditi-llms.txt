@@ -1,0 +1,28 @@
+# eKomoditi
+
+> eKomoditi (PT Ekomoditi Solutions Indonesia) is a Southeast Asian agriculture-technology company, founded 2015 in Jakarta, that builds digital plantation-management software for oil palm, rubber, sugar, and durian estates. Its flagship Electronic Plantation Control System (ePCS) replaces paper-based field recording with a mobile in-field app, eGIS geographic mapping, mills automation, and business-intelligence analytics. eKomoditi does not currently publish a public developer API, SDKs, or API documentation.
+
+## Products
+- [ePCS In-field System](https://ekomoditi.id/products): Android application for real-time plantation data collection (harvesting, fertilization, pest management, worker, and transport data) enabling same-day reporting.
+- [eGIS Mapping Application](https://ekomoditi.id/products): Geographic information system mapping tool for plantation estates.
+- [Plantation Marketplace](https://ekomoditi.id/products): Commerce platform for plantations.
+- [Mills Automation](https://ekomoditi.id/products): Processing-facility automation.
+
+## Services
+- [Services overview](https://ekomoditi.id/services): Due diligence, application solution development, aerial mapping drone services, and business intelligence analysis.
+
+## Company
+- [Homepage](https://ekomoditi.id): Company overview and product suite.
+- [Contact](https://ekomoditi.id/contact): Phone / WhatsApp +62-811-120-08811, Mon-Fri 09:00-18:00 WIB.
+- [News](https://ekomoditi.id/news): Company news and updates.
+
+## Social
+- [LinkedIn](https://www.linkedin.com/company/ekomoditi)
+- [Facebook](https://www.facebook.com/ekomoditi.id)
+- [Instagram](https://www.instagram.com/ekomoditi.id)
+- [Twitter/X](https://www.twitter.com/ekomoditi)
+- [YouTube](https://www.youtube.com/UCS5mOm4pPXDHqleoKnO9mNA)
+
+## Notes
+- No public API, OpenAPI/Swagger specification, SDKs, MCP server, or /.well-known discovery documents were found (all /.well-known probes returned 404).
+- Backed by 500 Global and ZB Capital.

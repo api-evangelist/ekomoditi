@@ -1,0 +1,21 @@
+{
+  "repo": "ekomoditi",
+  "feeds": [
+    {
+      "source": "https://ekomoditi.id/rss.xml",
+      "feed_url": "https://ekomoditi.id/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://ekomoditi.id/contact",
+      "feed_url": "https://ekomoditi.id/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 20,
+  "fetched": "2026-07-25T15:00:33Z"
+}
